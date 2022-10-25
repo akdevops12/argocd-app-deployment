@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: nodejs
-        image: akloud12/nodejs:v1.0.2
+        image: akloud12/nodejs:v1.0.1
         resources:
           limits:
             memory: "128Mi"
